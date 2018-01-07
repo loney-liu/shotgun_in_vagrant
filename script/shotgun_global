@@ -1,10 +1,11 @@
 ###Shotgun Versions
-APPVER="7.4.3.0"
+APPVER="7.5.2.0"
 TSVER="5.0.7"
 TWVER="8.2.5"
 SECVER="1.2.1"
 
 ###Globle configuration
+SHOTGUN_ADMIN_PW="Admin.12345"
 SHOTGUN_SITE_URL="sg.autodesk.com"
 VOLUMES="" #Have to use \/ to represent /
 ENABLEEMAILER=1 #1=uncomment emailnotifier 0=don't change

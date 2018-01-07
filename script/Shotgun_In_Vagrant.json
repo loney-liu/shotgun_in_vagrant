@@ -1,0 +1,14 @@
+{
+  "json_class": "Cluster",
+  "id": "Shotgun_In_Vagrant",
+  "cluster_name": "Shotgun In Vagrant",
+  "type": "Production",
+  "nodes": [
+    {
+      "name": "Main",
+      "docker_url": "unix:///var/run/docker.sock",
+      "network": "production_default",
+      "tls_configuration": ""
+    }
+  ]
+}
