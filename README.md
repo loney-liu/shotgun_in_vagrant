@@ -12,7 +12,7 @@
 - Access 
   - shotgun: `http://127.0.0.1:8888`    
   - sec: `http://127.0.0.1:9999`
-- `vagrant halt`
+- Stop `vagrant halt`
 
 **Change Version**
 - `vagrant destroy shotgun_in_vagrant` 
