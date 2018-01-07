@@ -7,7 +7,7 @@ SECVER="1.2.1"
 ###Globle configuration
 SHOTGUN_ADMIN_PW="Admin.12345"
 SHOTGUN_SITE_URL="sg.autodesk.com"
-VOLUMES="" #Have to use excape `\` to represent /. Exapmle `\/`
+VOLUMES="" #Have to use excape '\' to represent /. Exapmle '\/'
 ENABLEEMAILER=1 #1=uncomment emailnotifier 0=don't change
 ENABLETRANSCODER=1 #1=uncomment transcoder 0=don't change
 ENABLEPROXY=0 #1=uncomment proxy 0=don't change
