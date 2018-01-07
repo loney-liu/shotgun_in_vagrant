@@ -1,6 +1,7 @@
 # shotgun images folder
 
 Copy images here! Your folder looks like
+
 images
 ├── README.md
 ├── shotgun-docker-se-7.5.2.0.tar.gz
