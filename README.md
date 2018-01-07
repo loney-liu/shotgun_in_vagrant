@@ -2,6 +2,10 @@
 **Test OS**
 - MacOS
 
+**Requirements**
+- [Vagrant](https://www.vagrantup.com/downloads.html)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
 **How to use**
 - `mkdir sg` or whatever you like.
 - `cd sg`
