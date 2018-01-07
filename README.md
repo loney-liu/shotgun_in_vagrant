@@ -4,8 +4,8 @@
 - Edit shotgun versions in script/shotgun_global
 - vagrant up --provision
 - Access 
-   - Shotgun: `http://127.0.0.1:8888`    
-   - SEC: `http://127.0.0.1:9999`
+   - shotgun: `http://127.0.0.1:8888`    
+   - sec: `http://127.0.0.1:9999`
 - vagrant halt
 
 **Tested**
