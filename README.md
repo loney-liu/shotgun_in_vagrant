@@ -9,5 +9,5 @@
 5. vagrant halt
 
 
-Tested on
-shotgun 7.5.2
+Tested
+-. shotgun 7.5.2
