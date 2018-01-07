@@ -2,10 +2,11 @@
 
 - Copy shotgun docker images to images folder
 - Edit shotgun versions in script/shotgun_global
+  - `APPVER="7.4.3.0"`
 - vagrant up --provision
 - Access 
-   - shotgun: `http://127.0.0.1:8888`    
-   - sec: `http://127.0.0.1:9999`
+  - shotgun: `http://127.0.0.1:8888`    
+  - sec: `http://127.0.0.1:9999`
 - vagrant halt
 
 **Tested**
