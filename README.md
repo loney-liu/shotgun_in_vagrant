@@ -1,5 +1,5 @@
 # shotgun_in_vagrant
-**Test OS**
+**Tested OS**
 - `Mac OS X`
 
 **Requirements**
