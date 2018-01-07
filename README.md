@@ -3,11 +3,11 @@
 - MacOS
 
 **How to use**
-- `mkdir sg`
+- `mkdir sg` or whatever you like.
 - `git clone https://github.com/loney-liu/shotgun_in_vagrant.git`
 - `cd sg`
 - **Copy shotgun docker images to images folder (file formate please read `images/README.md`)**
-- vagrant up --provision
+- `vagrant up`
 - Access 
   - shotgun: `http://127.0.0.1:8888`    
   - sec: `http://127.0.0.1:9999`
@@ -21,7 +21,7 @@
 - `vagrant up`
 
 **Rebuild Image**
-- `vagrant halt` or `vagrant destroy shotgun_in_vagrant`
+- `vagrant halt`
 - `vagrant up --provision`
 
 **Tested version**
