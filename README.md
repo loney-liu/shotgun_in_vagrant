@@ -1,6 +1,6 @@
 # shotgun_in_vagrant
 **Test OS**
-- MacOS
+- `Mac OS X`
 
 **Requirements**
 - [Vagrant](https://www.vagrantup.com/downloads.html)
