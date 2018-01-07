@@ -1,5 +1,5 @@
 # shotgun_in_vagrant
-
+**How to use**
 - Copy shotgun docker images to images folder
 - Edit shotgun versions in script/shotgun_global
   - `APPVER="7.4.3.0"`
