@@ -1,5 +1,5 @@
 # shotgun_in_vagrant
-
+**How to use**
 - Copy shotgun docker images to images folder
 - Edit shotgun versions in script/shotgun_global
   - `APPVER="7.4.3.0"`
@@ -9,7 +9,7 @@
   - sec: `http://127.0.0.1:9999`
 - vagrant halt
 
-**Tested**
+**Tested version**
 
 - `shotgun 7.5.2`
 - `shotgun 7.4.3`
