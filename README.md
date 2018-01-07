@@ -24,7 +24,7 @@
 - `vagrant destroy shotgun_in_vagrant` 
 - **Copy new shotgun docker images to `images` folder**
 - Edit shotgun versions in `script/shotgun_global`
-  - `APPVER="7.5.2.0"`
+  - `APPVER="~~7.4.3.0~~ 7.5.2.0"`
 - `vagrant up`
 
 **Rebuild Image**
