@@ -5,8 +5,8 @@
 **How to use**
 - `mkdir sg`
 - `git clone https://github.com/loney-liu/shotgun_in_vagrant.git`
-- Copy shotgun docker images to images folder (file formate please read `images/README.md`)
 - `cd sg`
+- Copy shotgun docker images to images folder (file formate please read `images/README.md`)
 - vagrant up --provision
 - Access 
   - shotgun: `http://127.0.0.1:8888`    
