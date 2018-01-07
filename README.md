@@ -8,7 +8,7 @@
    - SEC: http://127.0.0.1:9999
 5. vagrant halt
 
-*Tested*
+**Tested**
 
 - `shotgun 7.5.2`
 - `shotgun 7.4.3`
