@@ -1,0 +1,1 @@
+# shotgun_in_vagrant
