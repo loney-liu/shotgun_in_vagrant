@@ -9,7 +9,7 @@
   - sec: `http://127.0.0.1:9999`
 - vagrant halt
 
-**Tested**
+**Tested version**
 
 - `shotgun 7.5.2`
 - `shotgun 7.4.3`
