@@ -12,11 +12,13 @@
 - `git clone https://github.com/loney-liu/shotgun_in_vagrant.git`
 - `cd shotgun_in_vagrant`
 - **Copy shotgun docker images to `images` folder (file formate please read `images/README.md`)**
-- `vagrant up`
+- Start 
+  - `vagrant up`
 - Access 
   - shotgun: `http://127.0.0.1:8888`    
   - sec: `http://127.0.0.1:9999`
-- Stop `vagrant halt`
+- Stop 
+  - `vagrant halt`
 
 **Change Version**
 - `vagrant destroy shotgun_in_vagrant` 
