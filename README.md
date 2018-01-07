@@ -1,5 +1,7 @@
 # shotgun_in_vagrant
 **How to use**
+- mkdir sg
+- git clone 
 - Copy shotgun docker images to images folder (file formate please read `images/README.md`)
 - vagrant up --provision
 - Access 
