@@ -26,10 +26,10 @@
 
 **Tested version**
 - *shotgun*
-  - `shotgun 7.5.2`
-  - `shotgun 7.4.3`
+  - `7.5.2`
+  - `7.4.3`
 - *transcoder*
   - `transcoder-worker 8.2.5`
-  - `transcoder-worker 5.0.7`
+  - `transcoder-server 5.0.7`
 - *sec*
-  - `sec 1.2.1`
+  - `1.2.1`
