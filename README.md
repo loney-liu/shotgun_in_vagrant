@@ -7,3 +7,7 @@
    Shotgun: http://127.0.0.1:8888
        SEC: http://127.0.0.1:9999
 5. vagrant halt
+
+
+Tested on
+shotgun 7.5.2
