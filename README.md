@@ -4,8 +4,9 @@
 
 **How to use**
 - `mkdir sg` or whatever you like.
-- `git clone https://github.com/loney-liu/shotgun_in_vagrant.git`
 - `cd sg`
+- `git clone https://github.com/loney-liu/shotgun_in_vagrant.git`
+- `cd shotgun_in_vagrant`
 - **Copy shotgun docker images to `images` folder (file formate please read `images/README.md`)**
 - `vagrant up`
 - Access 
