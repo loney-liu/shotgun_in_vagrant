@@ -11,7 +11,7 @@ Vagrant.configure("2") do |config|
     #shotgun_in_vagrant.vm.network "public_network", bridge: 'en0: Wi-Fi (AirPort)', ip: "192.168.0.10" 
     shotgun_in_vagrant.vm.network "forwarded_port", guest: 80, host: 8888
     shotgun_in_vagrant.vm.network "forwarded_port", guest: 8080, host: 9999
-    shotgun_in_vagrant.vm.provision "file", source: "./script", destination: "$HOME/script"
-    shotgun_in_vagrant.vm.provision "shell", path: "./script/setup_vagrant.sh", privileged: true
+    shotgun_in_vagrant.vm.provision "file", source: "/Users/loney-mac/Shotgun/shotgun_in_vagrant/script", destination: "$HOME/script"
+    shotgun_in_vagrant.vm.provision "shell", path: "/Users/loney-mac/Shotgun/shotgun_in_vagrant/script/setup_vagrant.sh", privileged: true
   end
 end

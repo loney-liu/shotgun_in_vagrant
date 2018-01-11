@@ -265,6 +265,8 @@ function _start {
   ###Edit docker-compose.yml
   echo "Editing ${DCYML} ..."
   _edityml $SGDIR/$PUD/$DCYML
+
+  yum install -y tree
 }
 
 _secur
